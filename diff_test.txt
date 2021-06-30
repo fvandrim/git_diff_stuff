@@ -1,1 +1,3 @@
-this is a git diff test example
+this is a diff example
+adding to diff example
+add line 3
