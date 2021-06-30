@@ -2,8 +2,8 @@ this is a diff example
 
 add line 3
 delta 2
-
-
+bee
+bop
 test1
-
+burger
 test2
